@@ -18,6 +18,9 @@
 
 ## 📖 关于本项目
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 这是我个人运营的开源项目合集，专注于 NAS 和 Docker 部署场景。每个项目都经过筛选，配有详细的一键部署教程。
 
 - **知乎**: [二冰](https://www.zhihu.com/people/congjiwang)
