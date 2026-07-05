@@ -57,7 +57,7 @@
 
 ### 🎨 多媒体 & 内容 (69个)
 
-- [视频音频](./docs/media-audio-video.md) (29个) - 视频转码、音乐管理、播客、流媒体
+- [视频音频](./docs/media-audio-video.md) (30个) - 视频转码、音乐管理、播客、流媒体
 - [图像相册](./docs/media-image.md) (18个) - 图片管理、AI相册、照片备份
 - [流媒体服务](./docs/media-streaming.md) (22个) - 视频平台、直播工具、媒体服务器
 
