@@ -72,4 +72,4 @@
 | ntfy | 跨平台消息推送服务，部署简单 | [点我查看](https://github.com/binwiederhier/ntfy) | [查看教程](https://zhuanlan.zhihu.com/p/1893040445153576679) | ![Star](https://img.shields.io/github/stars/binwiederhier/ntfy?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/binwiederhier/ntfy?label) |
 | Bark | 基于APNs将消息直达iPhone锁屏 | [点我查看](https://github.com/Finb/Bark) | [查看教程](https://zhuanlan.zhihu.com/p/1890870563641217497) | ![Star](https://img.shields.io/github/stars/Finb/Bark?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/Finb/Bark?label) |
 | Gotify | 快速搭建本地实时消息推送平台 | [点我查看](https://github.com/gotify/server) | [查看教程](https://zhuanlan.zhihu.com/p/1890564606608520626) | ![Star](https://img.shields.io/github/stars/gotify/server?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/gotify/server?label) |
-
+| Viya | 自托管 Caddy 可视化管理面板，支持反代/DDNS/TLS证书/L4转发/WebDAV | [项目地址](https://github.com/ringer520/viya-proxy) | [官网文档](https://viya.861010.xyz) | ![Star](https://img.shields.io/github/stars/ringer520/viya-proxy?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/ringer520/viya-proxy?label) |

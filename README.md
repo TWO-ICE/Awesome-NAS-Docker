@@ -54,10 +54,10 @@
 - [数据智能](./docs/ai-data-intelligence.md) (15个) - 数据处理、数据库管理、BI分析
 - [AI 部署与优化](./docs/ai-deployment.md) (50个) - AI服务部署、开发环境配置
 
-### 🛠️ 开发 & 运维 (145个)
+### 🛠️ 开发 & 运维 (146个)
 
 - [开发与运维](./docs/dev-ops.md) (83个) - 开发工具、CI/CD、容器管理、监控告警
-- [基础设施](./docs/infrastructure.md) (62个) - 存储方案、网络服务、消息队列
+- [基础设施](./docs/infrastructure.md) (63个) - 存储方案、网络服务、消息队列
 
 ### 🎨 多媒体 & 内容 (69个)
 
